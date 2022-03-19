@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="administrateur"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="boisson"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="commande"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="date"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="menu"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="plat"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="stock_boisson"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="stock_plat"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+	<table-filter match-name="ticket"
+		match-catalog="cantine_universitaire">
+	</table-filter>
+</hibernate-reverse-engineering>
